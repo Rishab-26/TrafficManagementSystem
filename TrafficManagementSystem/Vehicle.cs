@@ -11,7 +11,6 @@ namespace TrafficManagementSystem
         public string VehicleNo {  get; set; }
         public string VehicleType { get; set; }
         public string RCNumber { get; set; }
-
         public string InsuranceNo { get; set; }
     }
 }
